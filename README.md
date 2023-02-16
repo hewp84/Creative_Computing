@@ -13,3 +13,7 @@ Chapter 3: Conditional structures
 Chapter 4: Repetition Structures
   * Lesson 5: While loop - condition-controlled loops
   * Lesson 6: For loop - Count-controlled loop
+ 
+ Chapter 5: Functions
+  * Lesson 7: Void functions and variables
+  * Lesson 8: Value-returning functions
