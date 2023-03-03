@@ -17,3 +17,7 @@ Chapter 4: Repetition Structures
  Chapter 5: Functions
   * Lesson 7: Void functions and variables
   * Lesson 8: Value-returning functions
+  
+  Chapter 6: Files and Exceptions
+  * Lesson 9: File Inputs and Outputs
+  * Lesson 10: File Loops, Records, and Exceptions
