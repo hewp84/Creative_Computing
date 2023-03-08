@@ -21,3 +21,7 @@ Chapter 4: Repetition Structures
   Chapter 6: Files and Exceptions
   * Lesson 9: File Inputs and Outputs
   * Lesson 10: File Loops, Records, and Exceptions
+  
+  Chapter 7: List and Tuples
+  * Lesson 11: Introduction to Lists
+  * Lesson 12: Operations with Lists
