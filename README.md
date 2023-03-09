@@ -25,3 +25,4 @@ Chapter 4: Repetition Structures
   Chapter 7: List and Tuples
   * Lesson 11: Introduction to Lists
   * Lesson 12: Operations with Lists
+  * Lesson 13: More on Lists and Applications
