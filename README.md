@@ -3,7 +3,7 @@
 This repository serves as the main folder for the created Jupyter notebooks intended to serve the course: CS/CRT 103: Creative Computing and Programming at Oakland City University, Spring 2023.
 
 Chapter 2: Inputs, Processing, Outputs, and Formatting:
-  * Lesson 1: Introduction
+  * [Lesson 1: Introduction](https://github.com/hewp84/Creative_Computing/blob/main/Lesson_1.ipynb)
   * Lesson 2: Operators
   * Lesson 3: Formatting
 
