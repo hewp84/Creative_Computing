@@ -28,3 +28,6 @@ Chapter 4: Repetition Structures
   * [Lesson 13: More on Lists and Applications](https://github.com/hewp84/Creative_Computing/blob/main/Lesson_13.ipynb)
   * [Lesson 14: List Comprehension, two dimensional lists, and tuples](https://github.com/hewp84/Creative_Computing/blob/main/Lesson_14.ipynb)
   * [Lesson 15: Matplotlib library](https://github.com/hewp84/Creative_Computing/blob/main/Lesson_15.ipynb)
+
+  Chapter 8: More on String
+  * [Lesson 11: Operations with Strings](https://github.com/hewp84/Creative_Computing/blob/main/Lesson_16.ipynb)
