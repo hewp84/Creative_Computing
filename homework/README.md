@@ -24,5 +24,9 @@
 
 #### Chapter 8:
 * [Assignment Ch8_9](https://github.com/hewp84/Creative_Computing/blob/main/homework/Assignment_Ch8_9.ipynb)
+* Needed files for Homework:
+  * [Exercise 8.6](https://github.com/hewp84/Creative_Computing/blob/main/homework/text.txt)
+  * [Exercise 9.2](https://github.com/hewp84/Creative_Computing/blob/main/homework/capitals.csv)
+  * [Exercise 9.5 BONUS](https://github.com/hewp84/Creative_Computing/blob/main/homework/galatians6.txt)
 
 
